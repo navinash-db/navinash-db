@@ -70,7 +70,6 @@ Hey, I’m <strong>Navinash</strong> — but you can call me <strong>Navi</stron
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="60" alt="canva logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
 </div>
 <br><br>
 <picture>
